@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Aowu</id>
+    <version>1.0.0</version>
+    <authors>Aowu</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\hume\Desktop\project\Aowu\bin\Debug\net6.0\Aowu.runtimeconfig.json" target="lib\net6.0\Aowu.runtimeconfig.json" />
+    <file src="C:\Users\hume\Desktop\project\Aowu\bin\Debug\net6.0\Aowu.dll" target="lib\net6.0\Aowu.dll" />
+  </files>
+</package>

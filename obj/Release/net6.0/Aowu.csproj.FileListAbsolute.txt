@@ -1,0 +1,14 @@
+C:\Users\hume\Desktop\project\Aowu\bin\Release\net6.0\Aowu.exe
+C:\Users\hume\Desktop\project\Aowu\bin\Release\net6.0\Aowu.deps.json
+C:\Users\hume\Desktop\project\Aowu\bin\Release\net6.0\Aowu.runtimeconfig.json
+C:\Users\hume\Desktop\project\Aowu\bin\Release\net6.0\Aowu.dll
+C:\Users\hume\Desktop\project\Aowu\bin\Release\net6.0\Aowu.pdb
+C:\Users\hume\Desktop\project\Aowu\obj\Release\net6.0\Aowu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hume\Desktop\project\Aowu\obj\Release\net6.0\Aowu.AssemblyInfoInputs.cache
+C:\Users\hume\Desktop\project\Aowu\obj\Release\net6.0\Aowu.AssemblyInfo.cs
+C:\Users\hume\Desktop\project\Aowu\obj\Release\net6.0\Aowu.csproj.CoreCompileInputs.cache
+C:\Users\hume\Desktop\project\Aowu\obj\Release\net6.0\Aowu.dll
+C:\Users\hume\Desktop\project\Aowu\obj\Release\net6.0\refint\Aowu.dll
+C:\Users\hume\Desktop\project\Aowu\obj\Release\net6.0\Aowu.pdb
+C:\Users\hume\Desktop\project\Aowu\obj\Release\net6.0\Aowu.genruntimeconfig.cache
+C:\Users\hume\Desktop\project\Aowu\obj\Release\net6.0\ref\Aowu.dll

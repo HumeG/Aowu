@@ -1,0 +1,5 @@
+C:\Users\hume\Desktop\project\Aowu.exe
+C:\Users\hume\Desktop\project\Aowu.dll
+C:\Users\hume\Desktop\project\Aowu.deps.json
+C:\Users\hume\Desktop\project\Aowu.runtimeconfig.json
+C:\Users\hume\Desktop\project\Aowu.pdb
